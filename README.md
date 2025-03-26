@@ -12,11 +12,9 @@ This repository includes additional materials not covered in our paper, such as 
 
 ## Repository Structure
 ```
-📂 data/         # Processed datasets (not included due to size)
-📂 results/      # Accuracy reports, SHAP visualizations, additional tables
-📂 src/          # Core scripts for feature extraction, training, and evaluation
-📂 docs/         # Additional references and documentation
-📄 .gitignore    # Files to be ignored in version control
+📂 images/         # SHAP visualizations
+📂 tables/       # Additional tables
+📄 protein_classification_EDA.ipynb     # Python notebook for Exploratory data analysis
 📄 README.md     # Project documentation
 ```
 
