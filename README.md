@@ -1,7 +1,7 @@
 # Protein Classification Using Sequence and Structure Information
 
 ## Overview
-This repository includes additional materials not covered in our paper, such as code on Exploratory Data Analysis(EDA), description on processed datasets, and results for protein classification using primary sequence and secondary structure information. We evaluate machine learning (ML) and deep learning (DL) models to assess whether structural features enhance classification accuracy and biological interpretability.
+This repository includes additional materials not covered in our paper https://doi.org/10.1109/AIMLA63829.2025.11040958, such as code on Exploratory Data Analysis(EDA), description on processed datasets, results for protein classification using primary sequence and secondary structure information and detailed code of our methodology. We evaluate machine learning (ML) and deep learning (DL) models to assess whether structural features enhance classification accuracy and biological interpretability.
 
 ## Features
 - Uses TF-IDF and embedding-based feature extraction for protein sequences
@@ -15,6 +15,7 @@ This repository includes additional materials not covered in our paper, such as 
 📂 images/         # SHAP visualizations
 📂 tables/       # Additional tables
 📄 protein_classification_EDA.ipynb     # Python notebook for Exploratory data analysis
+📄 protein_classification_code.ipynb     # Python notebook for Proposed Methodology
 📄 README.md     # Project documentation
 ```
 
@@ -28,7 +29,7 @@ This repository includes additional materials not covered in our paper, such as 
 - Extend analysis to more diverse protein classes
 - Better representation of structure sequence
 - Investigate disease mechanisms by analyzing sequence-structure changes in relation to protein function prediction
-
+- 
 ## Contributors
 - Preveena K V
 - Supervisor: Dr. Manu Madhavan
