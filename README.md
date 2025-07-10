@@ -29,7 +29,7 @@ This repository includes additional materials not covered in our paper https://d
 - Extend analysis to more diverse protein classes
 - Better representation of structure sequence
 - Investigate disease mechanisms by analyzing sequence-structure changes in relation to protein function prediction
-- 
+ 
 ## Contributors
 - Preveena K V
 - Supervisor: Dr. Manu Madhavan
